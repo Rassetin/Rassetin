@@ -1,1 +1,1 @@
-<img src="/rassetin.ong" width="800" height="300" alt="">
+<img src="/rassetin.png" width="800" height="300" alt="">
